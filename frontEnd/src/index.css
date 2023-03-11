@@ -1,0 +1,88 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	background: #2c2c2d;
+	font-family: sans-serif;
+	font-weight: 100;
+}
+
+.container {
+	position: relative;
+  	width: 100%;
+}
+
+label{
+	color: #dcdcdc;
+}
+
+legend{
+	color: #dcdcdc;
+	margin: 20px;
+	border: 0px solid;
+}
+
+.addForm{
+	
+	margin: 10px;
+}
+
+
+table {
+    width: stretch;
+	border-collapse: collapse;
+	margin: 10px;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+th{
+  padding: 15px;
+	background-color: rgba(78, 78, 78, 0.2);
+	color: #b6b6b6;
+}
+td {
+	padding: 15px;
+	background-color: rgba(96, 96, 96, 0.2);
+	color: #949191;
+}
+
+th {
+	text-align: left;
+}
+
+button{
+	margin-top: 20px;
+	
+}
+.stationHeading{
+	color: #dcdcdc;
+}
+
+tr{
+  box-shadow: 0 0 1px rgba(248, 248, 250, 0.2);
+}
+
+thead.th {
+		background-color: #4a4a4c;
+	}
+
+
+	.logo{
+		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		font-size: 2em;
+		margin: 20px;
+		text-decoration: none;
+		color: #dcdcdc;
+	}
+	
+
+	.solution{
+		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+		font-size: 1.5em;
+		margin: 20px;
+		color: #dcdcdc;
+	}
